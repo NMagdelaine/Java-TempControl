@@ -1,2 +1,2 @@
 # Java-TempControl
-Simulations de control de température
+Simulations de controle de température
